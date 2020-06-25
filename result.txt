@@ -1,0 +1,11 @@
+Country: Aruba url: https://en.wikipedia.org/wiki/Cuba
+Country: Afghanistan url: https://en.wikipedia.org/wiki/Afghanistan
+Country: Angola url: https://en.wikipedia.org/wiki/Angola
+Country: Anguilla url: https://en.wikipedia.org/wiki/Anguilla
+Country: Albania url: https://en.wikipedia.org/wiki/Albania
+Country: Andorra url: https://en.wikipedia.org/wiki/Andorra
+Country: United Arab Emirates url: https://en.wikipedia.org/wiki/United_Arab_Emirates
+Country: Argentina url: https://en.wikipedia.org/wiki/Argentina
+Country: Armenia url: https://en.wikipedia.org/wiki/Armenia
+Country: American Samoa url: https://en.wikipedia.org/wiki/American_Samoa
+Country: Antarctica url: https://en.wikipedia.org/wiki/Antarctic
